@@ -1,0 +1,10 @@
+C:\Users\amit04\source\repos\Book Borrowing System\Business_Object_Layer\bin\Debug\netcoreapp3.1\Business_Object_Layer.deps.json
+C:\Users\amit04\source\repos\Book Borrowing System\Business_Object_Layer\bin\Debug\netcoreapp3.1\Business_Object_Layer.dll
+C:\Users\amit04\source\repos\Book Borrowing System\Business_Object_Layer\bin\Debug\netcoreapp3.1\Business_Object_Layer.pdb
+C:\Users\amit04\source\repos\Book Borrowing System\Business_Object_Layer\obj\Debug\netcoreapp3.1\Business_Object_Layer.csproj.AssemblyReference.cache
+C:\Users\amit04\source\repos\Book Borrowing System\Business_Object_Layer\obj\Debug\netcoreapp3.1\Business_Object_Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amit04\source\repos\Book Borrowing System\Business_Object_Layer\obj\Debug\netcoreapp3.1\Business_Object_Layer.AssemblyInfoInputs.cache
+C:\Users\amit04\source\repos\Book Borrowing System\Business_Object_Layer\obj\Debug\netcoreapp3.1\Business_Object_Layer.AssemblyInfo.cs
+C:\Users\amit04\source\repos\Book Borrowing System\Business_Object_Layer\obj\Debug\netcoreapp3.1\Business_Object_Layer.csproj.CoreCompileInputs.cache
+C:\Users\amit04\source\repos\Book Borrowing System\Business_Object_Layer\obj\Debug\netcoreapp3.1\Business_Object_Layer.dll
+C:\Users\amit04\source\repos\Book Borrowing System\Business_Object_Layer\obj\Debug\netcoreapp3.1\Business_Object_Layer.pdb
